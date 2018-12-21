@@ -3,7 +3,7 @@
 Discord webhooks is a simple client for Discord's webhook API.
 
 #### Composer require command
-`composer require ccaglayan/DiscordWebhooksPHP`
+`composer require ccaglayan/discord-webhooks-php`
 
 ## Usage
 
