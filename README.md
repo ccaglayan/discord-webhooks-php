@@ -1,5 +1,7 @@
 # DiscordWebhooksPHP
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/36813d9670e94e8494f4d3eef48bf121)](https://app.codacy.com/app/ccaglayan/discord-webhooks-php?utm_source=github.com&utm_medium=referral&utm_content=ccaglayan/discord-webhooks-php&utm_campaign=Badge_Grade_Dashboard)
+
 Discord webhooks is a simple client for Discord's webhook API.
 
 #### Composer require command
